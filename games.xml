@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<root>
+
+    <game>
+        <title>fifa19</title>
+        <picture>fifa19.jpg</picture>
+        <author>EaSports</author>
+        <magazine>Sportowy &#x15A;wiat</magazine>
+    </game>
+    <game>
+        <title>Uncharted 4</title>
+        <picture>uncharted.jpg</picture>
+        <author>Naughty Dog</author>
+        <magazine>Gramy i Zwiedzamy</magazine>
+    </game>
+    <game>
+        <title>Call of Duty 4</title>
+        <picture>callOfDuty4.jpg</picture>
+        <author>EaSports</author>
+        <magazine>Czasopismo Strzelanka</magazine>
+    </game>
+    
+    
+<game><title>Tomb Raider</title><picture>tombRaider.jpg</picture><author>Core Design</author><magazine>Lubimy Przygody</magazine></game><game><title>Need For Speed Rivals</title><picture>needForSpeedRivals.jpg</picture><author>EaSports</author><magazine>Gazeta Wy&#x15B;cigowa</magazine></game><game><title>rwerewr</title><picture>erewr</picture><author>qwqwq</author><magazine>weqwe</magazine></game></root>

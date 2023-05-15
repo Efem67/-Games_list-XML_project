@@ -1,0 +1,8 @@
+{
+  "name": "vendor/xml",
+  "type": "project",
+  "require": {
+    "ext-gd": "*",
+    "phpoffice/phpspreadsheet": "^1.22"
+  }
+}

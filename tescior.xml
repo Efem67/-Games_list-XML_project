@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<root>
+    
+
+    <game>
+        <title>CS:GO</title>
+        <picture>nnnn</picture>
+        <author>steam</author>
+        <magazine>fajna Gazeta</magazine>
+    </game>
+
+    <game>
+        <title>Fifa</title>
+        <picture>hhhhh</picture>
+        <author>EaSports</author>
+        <magazine>fifa Magazine</magazine>
+    </game>
+
+    <game>
+        <title>111</title>
+        <picture>133</picture>
+        <author>1777</author>
+        <magazine>1999</magazine>
+    </game>
+</root>
